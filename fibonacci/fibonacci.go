@@ -23,7 +23,7 @@ func fibonacci(n int) []int {
 }
 
 func main() {
-	n := 2 // change this to the desired number of fibonacci sequence
+	n := 1 // change this to the desired number of fibonacci sequence
 	result := fibonacci(n)
 	fmt.Println(result)
 }
